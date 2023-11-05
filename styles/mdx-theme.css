@@ -1,0 +1,9 @@
+/* Example styles for dark theme */
+body {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  h1 {
+    color: #ffcc00;
+  }

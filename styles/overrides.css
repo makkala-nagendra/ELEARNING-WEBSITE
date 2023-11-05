@@ -1,0 +1,6 @@
+.prose {
+    width: 100%;
+    padding: 0px;
+    color: var(--prose-text-color);
+    background-color: var(--prose-background-color);
+  }

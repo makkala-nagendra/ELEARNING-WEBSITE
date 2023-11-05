@@ -1,0 +1,48 @@
+
+
+.katex-html {
+  display: none;
+}
+
+.hljs-keyword {
+  color: rgb(143, 143, 233);
+}
+.hljs-title {
+  color: var(--color-text);
+}
+.hljs-variable {
+  color: rgb(233, 148, 79);
+}
+.hljs-built_in {
+  color: rgb(236, 116, 220);
+}
+.hljs-string {
+  color: rgb(143, 233, 143);
+}
+.hljs {
+  color: aqua;
+}
+
+
+
+
+
+
+
+.navbar {
+  position: fixed;
+  top: -50px;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+  transition: top 0.3s ease-in-out;
+}
+
+.navbar.show {
+  top: 0;
+}
+
+.navbar.hide {
+  top: -150px;
+}

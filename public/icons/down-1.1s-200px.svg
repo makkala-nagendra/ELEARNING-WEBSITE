@@ -1,0 +1,7 @@
+<svgviewBox="0 0 100 100" y="0" x="0" id="Layer_1" version="1.1" width="30px" height="30px" style="width:100%;height:100%;background-size:initial;background-repeat-y:initial;background-repeat-x:initial;background-position-y:initial;background-position-x:initial;background-origin:initial;background-color:initial;background-clip:initial;background-attachment:initial;animation-play-state:paused">
+<g id="ldl-scale" style="transform-origin:50% 50%;transform:rotate(0deg) scale(0.8, 0.8);animation-play-state:paused">
+<circle fill="#323232" r="40" cy="50" cx="50" style="fill:rgb(50, 50, 50);animation-play-state:paused"></circle>
+<path d="M77.5 42.917l-7.333-7.334L50 55.75v14.667z" fill="#999998" style="fill:rgb(153, 153, 152);animation-play-state:paused"></path>
+<path d="M50 55.75L29.833 35.583 22.5 42.917l27.5 27.5z" fill="#cccccb" style="fill:rgb(204, 204, 203);animation-play-state:paused"></path>
+</g>
+</svgviewBox=>
