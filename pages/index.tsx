@@ -6,6 +6,7 @@ import { Footer, RightSection, LeftSection, LanguagesSection, NavBar } from '../
 import Image from 'next/image'
 
 
+
 const inter = Inter({ subsets: ['cyrillic'] })
 const name = "Code Lab"
 
